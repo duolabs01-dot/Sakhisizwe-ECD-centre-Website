@@ -1,0 +1,8 @@
+{
+  "name": "Sakhisizwe Day Care & Pre-School",
+  "description": "A vibrant, welcoming website for Sakhisizwe Creche & Pre-School, featuring program details, enrollment information, and an AI-powered parent assistant.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
